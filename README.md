@@ -1,5 +1,6 @@
 # My Cyber Journey
-Welcome to my cybersecurity portfolio. I'm documenting my hands-on projects, learning milestones, and areas of specialization. This portfolio includes work on SOC operations, GRC, vulnerability analysis, and more.
+Welcome to my cybersecurity portfolio. I'm documenting my hands-on projects, learning milestones, and areas of specialization. 
+This portfolio includes work on SOC operations, GRC, vulnerability analysis, and more.
 
 I’ve completed:
 - IBM Cybersecurity Analyst Certificate ⭐
