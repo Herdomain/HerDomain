@@ -10,7 +10,7 @@ I’m especially interested in creating policies, improving security awareness, 
 
 Whether you're exploring, curious, or just passing through, thanks for stopping by. 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👩‍💻 Cybersecurity Projects:</h2>
 
 - <b> Projects & Labs</b>
   - [name of project](link)
