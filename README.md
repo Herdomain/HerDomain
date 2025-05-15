@@ -15,7 +15,8 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 - <b> Projects & Labs</b>
   - [name of project](link)
 - <b>📚 Foundations and Tools </b>
-  - [name of project](link) <b><i>(Potentially NSFW)</b></i>
+  - [name of project](link) 
+
 - <b>📜 Governance, Risk & Compliance (GRC)</b>
   - [name of project](link)
   - [name of project)](link)
