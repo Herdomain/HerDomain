@@ -29,21 +29,15 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 
 <h2> Certifications </h2>
 -  
+<h2> 🤳 Connect with me: </h2>
 
-<h2> 🤳 Connect with me:</h2>
-<img align="left" alt="AsheotsaA | LinkedIn" width="22px" src="imagepic" />
-
-[linkedin]: (https://linkedin.com/in/asheotsa-ata)
 
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**herdomain1/herdomain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I’ve completed:
-- IBM Cybersecurity Analyst Certificate ⭐
-- Full-time Cybersecurity Bootcamp at Lighthouse Labs ⭐
-- Hands-on labs and guided paths through TryHackMe ⭐
-- Currently focused on GRC, IAM, Zero Trust, and cloud security ⭐
+<img align="left" alt="AsheotsaA | LinkedIn" width="22px" src="imagepic" />
 
+[linkedin]: (https://linkedin.com/in/asheotsa-ata)
 -->
 
