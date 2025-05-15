@@ -1,5 +1,5 @@
 <h1> 👋🏽 Hi, I'm Asheotsa! <br/>
-<a href="https://github.com/Herdomain">Cybersecurity Analyst & GRC Portfolio </a>  | <a href="https://www.linkedin.com/in/asheotsa-ata/">Labs, Projects, Growth</a> </h1>
+<a href="https://github.com/Herdomain"> Cybersecurity Professional </a>  | <a href="https://www.linkedin.com/in/asheotsa-ata/">Labs, Projects, Growth</a> </h1>
 
 Welcome to my cybersecurity portfolio. 
 
