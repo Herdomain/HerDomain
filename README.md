@@ -3,7 +3,8 @@
 
 Welcome to my cybersecurity portfolio. 
 
-HerDomain is where I document my progress in cybersecurity. It’s a space focused on practical learning, personal growth, and building a clear understanding of how security supports people and businesses. My current focus is on governance, risk, and compliance.
+HerDomain is where I document my progress in cybersecurity. 
+It’s a space focused on practical learning, personal growth, and building a clear understanding of how security supports people and businesses. My current focus is on governance, risk, and compliance.
 
 I’m especially interested in creating policies, improving security awareness, and helping organizations meet their security goals through strategy and clarity.
 
