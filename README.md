@@ -1,15 +1,14 @@
 # 👋🏽 Hi, I'm Asheotsa! 
 <a href="https://linkedin.com/in/asheotsa-ata"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+## Objective
+
 HerDomain is where I document my progress in cybersecurity. 
 It’s a space focused on practical learning, personal growth, and building a clear understanding of how security supports people and businesses. My current focus is on governance, risk, and compliance.
 
 I’m especially interested in creating policies, improving security awareness, and helping organizations meet their security goals through strategy and clarity.
 
 Whether you're exploring, curious, or just passing through, thanks for stopping by. 
-## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -24,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+[Provide tools and break them down into categories. Remove this afterwards]]
 
 ### Network
 <div>
