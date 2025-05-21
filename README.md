@@ -1,6 +1,7 @@
-# 👋🏽 Hi, I'm Asheotsa! 
-<a href="https://linkedin.com/in/asheotsa-ata"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋🏽 Hi, I'm Asheotsa!
 
+ <a href="https://linkedin.com/in/asheotsa-ata"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
 ## Objective
 
 HerDomain is where I document my progress in cybersecurity. 
