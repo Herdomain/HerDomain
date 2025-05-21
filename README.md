@@ -1,7 +1,5 @@
-<h1> 👋🏽 Hi, I'm Asheotsa! <br/>
-<a href="https://github.com/Herdomain"> Cybersecurity Professional </a>  | <a href="https://www.linkedin.com/in/asheotsa-ata/">Labs, Projects, Growth</a> </h1>
-
-Welcome to my cybersecurity portfolio. 
+# 👋🏽 Hi, I'm Asheotsa! 
+<a href="https://linkedin.com/in/asheotsa-ata"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 HerDomain is where I document my progress in cybersecurity. 
 It’s a space focused on practical learning, personal growth, and building a clear understanding of how security supports people and businesses. My current focus is on governance, risk, and compliance.
@@ -9,30 +7,55 @@ It’s a space focused on practical learning, personal growth, and building a cl
 I’m especially interested in creating policies, improving security awareness, and helping organizations meet their security goals through strategy and clarity.
 
 Whether you're exploring, curious, or just passing through, thanks for stopping by. 
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-<h2>👩‍💻 Cybersecurity Projects:</h2>
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- <b> Projects & Labs</b>
-  - [name of project](https://github.com/Herdomain/Active-Directory/edit/main/README.md)
-- <b>📚 Foundations and Tools </b>
-  - [name of project](link) 
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-- <b>📜 Governance, Risk & Compliance (GRC)</b>
-  - [name of project](link)
-  - [name of project)](link)
-  - [name of project](link)
-  - [name of project)](link)
-- <b>📈 Threat Detection and Incident Response</b>
-  - [name of project)](link)
-  - [name of project](link)
-  - [name of project](link)
-- <b>💼 Resources That Shaped My Journey</b>
-  - [name of project](link)
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-<h2> Certifications </h2>
--  
-<h2> 🤳 Connect with me: </h2>
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
 
 
 <!--
