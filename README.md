@@ -12,7 +12,6 @@ I’m especially interested in creating policies, improving security awareness, 
 Whether you're exploring, curious, or just passing through, thanks for stopping by. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
