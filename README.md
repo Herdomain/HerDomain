@@ -15,12 +15,13 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Scanning and Asset Discovery          | <a href="https://github.com/Herdomain/Network-Administration">Network Asset Discovery & Documentation</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Network Scanning and Asset Inventory        | <a href="https://github.com/Herdomain/Network-Administration">Network Admin Project</a>|
+| Wireshark Traffic Analysis                  | <a href="https://github.com/Herdomain/Network-Administration">Network Admin Project</a>|
+| Threat Mapping with IoCs                    | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
+| Alert Threshold Design                      | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
+| Incident Response Workflow Design           | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
+| Stakeholder Escalation Planning             | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
+| Executive Report Writing                    | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Remove this afterwards]]
