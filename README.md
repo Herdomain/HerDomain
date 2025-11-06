@@ -25,24 +25,24 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 
 ## Tools
 
-### Network & Scanning 
+### 🔧 Network & Scanning 
 <div>
     <img src="https://img.shields.io/badge/-Nmap-4F5D95?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
-### Endpoint
+### 🧪 Monitoring & Logging
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+   <div>
+    <img src="https://img.shields.io/badge/-PRTG_Monitoring-009FDB?&style=for-the-badge" />
 </div>
 
-### SIEM
+### 🧰 Incident Response & Documentation
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-FF5733?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-NIST_SP_800--61-2C5AA0?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-CISA_Playbook_Guidance-00B140?&style=for-the-badge" />
 </div>
 
 ## Certifications
