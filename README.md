@@ -45,6 +45,28 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
     <img src="https://img.shields.io/badge/-CISA_Playbook_Guidance-00B140?&style=for-the-badge" />
 </div>
 
+🧪 Labs & Learning
+<h3>🧠 Frameworks & Intelligence</h3>
+<div>
+  <img src="https://img.shields.io/badge/Cyber%20Defence%20Frameworks-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cyber%20Threat%20Intelligence-306998?style=for-the-badge" />
+</div>
+
+<h3>🛡️ Defensive Security</h3>
+<div>
+  <img src="https://img.shields.io/badge/Defensive%20Security-2A9D8F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Defensive%20Security%20Tooling-1D3557?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Security%20Solutions-457B9D?style=for-the-badge" />
+</div>
+
+<h3>🔧 Technical Foundations</h3>
+<div>
+  <img src="https://img.shields.io/badge/Cryptography-6D597A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-8D99AE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Web%20Hacking-F4A261?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Windows%20Exploitation%20Basics-E76F51?style=for-the-badge" />
+</div>
+
 ## Certifications
 
 <div>
@@ -52,8 +74,7 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
 
 
 <!--
