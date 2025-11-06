@@ -24,13 +24,12 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 | Executive Report Writing                    | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Remove this afterwards]]
 
-### Network
+### Network & Scanning 
 <div>
+    <img src="https://img.shields.io/badge/-Nmap-4F5D95?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
 </div>
 
 ### Endpoint
