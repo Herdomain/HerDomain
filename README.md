@@ -15,7 +15,7 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Scanning and Asset Discovery          | <a href="https://github.com/Herdomain/Network-Administration">Network Asset Discovery & Documentation</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
