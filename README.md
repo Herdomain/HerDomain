@@ -16,7 +16,7 @@ Whether you're exploring, curious, or just passing through, thanks for stopping 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Scanning and Asset Inventory        | <a href="https://github.com/Herdomain/Network-Administration">Network Admin Project</a>|
-| Wireshark Traffic Analysis                  | <a href="https://github.com/Herdomain/Network-Administration">Network Admin Project</a>|
+| Wireshark Traffic Analysis                  | <a href="https://github.com/Herdomain/Network-Administration">Wireshark Traffic Analysis</a>|
 | Threat Mapping with IoCs                    | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
 | Alert Threshold Design                      | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
 | Incident Response Workflow Design           | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
