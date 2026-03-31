@@ -26,6 +26,7 @@ My focus is on translating technical findings into clear, actionable insights th
 | Log Monitoring & Threat Detection           | <a href="https://github.com/Herdomain/Log-Monitoring-Workflow">Turn a New Leaf</a>|
 | Network Security & Asset Discovery          | <a href="https://github.com/Herdomain/Network-Administration">Network Admin Project</a>|
 | Network Traffic Analysis                    | <a href="https://github.com/Herdomain/Network-Administration">Wireshark Traffic Analysis</a>|
+| Incident Response & Escalation              | <a href="https://github.com/Herdomain/Network-Administration">Cat & Box Playbook</a>|
 | Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
 | Detection Engineering / Alert Tuning        | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
 | Stakeholder Escalation Planning             | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
