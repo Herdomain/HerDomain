@@ -26,9 +26,9 @@ My focus is on translating technical findings into clear, actionable insights th
 | Network Traffic Analysis                    | <a href="https://github.com/Herdomain/Network-Administration">Wireshark Traffic Analysis</a>|
 | Incident Response & Escalation              | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Cat & Box Playbook</a>|
 | Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/risk-monitoring-ioc-detection">Risk Monitoring IOC Detection</a>|
-| Detection Engineering / Alert Tuning        | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
-| Stakeholder Escalation Planning             | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
-| Executive Report Writing                    | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
+| Detection Engineering / Alert Tuning        | <a href="https://github.com/Herdomain/insider-threat-detection-response-playbook">Sensor Monitoring Project</a>|
+| Stakeholder Escalation & Communication      | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
+| Executive Security Reporting                | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response</a>|
 
 ## Tools
 
