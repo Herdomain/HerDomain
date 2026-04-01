@@ -21,7 +21,7 @@ My focus is on translating technical findings into clear, actionable insights th
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Log Monitoring & Threat Detection           | <a href="https://github.com/Herdomain/Log-Monitoring-Workflow">Turn a New Leaf</a>|
+| Log Monitoring & Threat Detection           | <a href="https://github.com/Herdomain/Log-Monitoring-Workflow">Log Monitoring & Threat Detection</a>|
 | Network Security & Asset Discovery          | <a href="https://github.com/Herdomain/Network-Administration">Network Security Analysis</a>|
 | Network Traffic Analysis                    | <a href="https://github.com/Herdomain/Network-Administration">Wireshark Traffic Analysis</a>|
 | Incident Response & Escalation              | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Incident Response Playbook</a>|
