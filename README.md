@@ -17,8 +17,6 @@ My focus is on translating technical findings into clear, actionable insights th
 - 🛠️ Incident Response Playbook (Cat & Box Scenario)  
 - 📡 Sensor Monitoring & Alert Design  
 
-
-
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -27,7 +25,7 @@ My focus is on translating technical findings into clear, actionable insights th
 | Network Security & Asset Discovery          | <a href="https://github.com/Herdomain/Network-Administration">Network Admin Project</a>|
 | Network Traffic Analysis                    | <a href="https://github.com/Herdomain/Network-Administration">Wireshark Traffic Analysis</a>|
 | Incident Response & Escalation              | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Cat & Box Playbook</a>|
-| Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
+| Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/risk-monitoring-ioc-detection">Risk Monitoring IOC Detection</a>|
 | Detection Engineering / Alert Tuning        | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Sensor Monitoring Project</a>|
 | Stakeholder Escalation Planning             | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
 | Executive Report Writing                    | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Cat & Box Playbook</a>|
