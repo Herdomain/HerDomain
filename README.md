@@ -27,7 +27,7 @@ My focus is on translating technical findings into clear, actionable insights th
 | Incident Response & Escalation              | <a href="https://github.com/Herdomain/Risks-and-Vulnerabilities">Incident Response Playbook</a>|
 | Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/risk-monitoring-ioc-detection">Risk Monitoring IOC Detection</a>|
 | Detection Engineering / Alert Tuning        | <a href="https://github.com/Herdomain/insider-threat-detection-response-playbook">Sensor Monitoring Project</a>|
-| Architecture/Prevention                     | <a href="">Cybersecurity Best Practices</a>|
+| Architecture/Prevention                     | <a href="https://github.com/Herdomain/zero-trust-security-architecture">Cybersecurity Best Practices</a>|
 | Executive Security Reporting                | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response</a>|
 
 ## Tools
