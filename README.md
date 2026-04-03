@@ -24,7 +24,7 @@ My focus is on translating technical findings into clear, actionable insights th
 | Log Monitoring & Threat Detection           | <a href="https://github.com/Herdomain/Log-Monitoring-Workflow">Log Monitoring & Threat Detection</a>|
 | Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/risk-monitoring-ioc-detection">Risk Monitoring IOC Detection </a>|
 | Incident Response                           | <a href="https://github.com/Herdomain/psn-data-breach-analysis-incident-response">Playstation Analysis</a>|
-| Incident Response & Escalation              | <a href="">Incident Response Playbook</a>|
+| Network              | <a href="">Wireshark & Nmap</a>|
 | Threat Intelligence & IoC Analysis          | <a href="">Risk Monitoring IOC Detection</a>|
 | Detection Engineering / Alert Tuning        | <a href="">Sensor Monitoring Project</a>|
 |Zero Trust / Prevention                    | <a href="">Cybersecurity Best Practices</a>|
