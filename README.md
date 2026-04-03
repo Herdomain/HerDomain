@@ -27,7 +27,7 @@ My focus is on translating technical findings into clear, actionable insights th
 | Network                                      | <a href="https://github.com/Herdomain/network-traffic-analysis">Wireshark & Nmap</a>|
 | Threat Intelligence & IoC Analysis          | <a href="">Risk Monitoring IOC Detection</a>|
 | Detection Engineering / Alert Tuning        | <a href="">Sensor Monitoring Project</a>|
-|Zero Trust / Prevention                    | <a href="">Cybersecurity Best Practices</a>|
+|Zero Trust / Prevention                    | <a href="https://github.com/Herdomain/zero-trust-security-architecture">Cybersecurity Best Practices</a>|
 | Executive Security Reporting                | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response</a>|
 
 ## Tools
