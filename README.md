@@ -26,7 +26,7 @@ My focus is on translating technical findings into clear, actionable insights th
 | Incident Response                           | <a href="https://github.com/Herdomain/psn-data-breach-analysis-incident-response">Playstation Analysis</a>|
 | Network                                      | <a href="https://github.com/Herdomain/network-traffic-analysis">Wireshark & Nmap</a>|
 | Data Breach                                 | <a href="https://github.com/Herdomain/data-breach">Incident Response for Data Breach</a>|
-| Digital Forensics                           | <a href="https://github.com/Herdomain/digital-forensics-szechuan-sauce-investigation">Forensicst</a>|
+| Digital Forensics                           | <a href="https://github.com/Herdomain/digital-forensics-szechuan-sauce-investigation">Forensics</a>|
 |Zero Trust / Prevention                    | <a href="https://github.com/Herdomain/zero-trust-security-architecture">Cybersecurity Best Practices</a>|
 | Executive Security Reporting                | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response</a>|
 
