@@ -23,12 +23,12 @@ My focus is on translating technical findings into clear, actionable insights th
 |-----------------------------------------------|----------------------------|
 | Log Monitoring & Threat Detection           | <a href="https://github.com/Herdomain/Log-Monitoring-Workflow">Log Monitoring & Threat Detection</a>|
 | Threat Intelligence & IoC Analysis          | <a href="https://github.com/Herdomain/risk-monitoring-ioc-detection">Risk Monitoring IOC Detection </a>|
-| Incident Response                           | <a href="https://github.com/Herdomain/psn-data-breach-analysis-incident-response">Playstation Analysis</a>|
-| Network                                      | <a href="https://github.com/Herdomain/network-traffic-analysis">Wireshark & Nmap</a>|
-| Data Breach                                 | <a href="https://github.com/Herdomain/data-breach">Incident Response for Data Breach</a>|
-| Digital Forensics                           | <a href="https://github.com/Herdomain/digital-forensics-szechuan-sauce-investigation">Forensics</a>|
-|Zero Trust / Prevention                    | <a href="https://github.com/Herdomain/zero-trust-security-architecture">Cybersecurity Best Practices</a>|
-| Executive Security Reporting                | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response</a>|
+| Data Breach Analysis                        | <a href="https://github.com/Herdomain/psn-data-breach-analysis-incident-response">PSN Data Breach Analysis</a>|
+| Network Traffic Analysis                    | <a href="https://github.com/Herdomain/network-traffic-analysis">Wireshark & Nmap</a>|
+| Digital Forensics                           | <a href="https://github.com/Herdomain/digital-forensics-szechuan-sauce-investigation">Forensics Investigation</a>|
+| Zero Trust & Security Architecture          | <a href="https://github.com/Herdomain/zero-trust-security-architecture">Zero Trust Security Architecture</a>|
+| Security Communication & Reporting          | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response Playbook</a>|
+| Incident Response & Escalation              | <a href="https://github.com/Herdomain/data-breach">Incident</a>|
 
 ## Tools
 
