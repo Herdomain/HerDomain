@@ -2,20 +2,20 @@
 
  <a href="https://linkedin.com/in/asheotsa-ata"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
-## Objective
+## About Me
 
-HerDomain is a cybersecurity portfolio focused on governance, risk, and compliance (GRC), incident response, and security analysis.
+I am a cybersecurity analyst specializing in incident response, threat detection, and GRC, with hands-on experience in network analysis, digital forensics, and Zero Trust security architecture.
 
-This portfolio demonstrates how I investigate security events, analyze risks, and develop structured solutions aligned with frameworks such as NIST and MITRE ATT&CK.
+I build and analyze security workflows that simulate real-world SOC operations, including detection, investigation, and response to security incidents.
 
-My focus is on translating technical findings into clear, actionable insights that support business decision-making and strengthen security posture.
+My work emphasizes translating technical findings into clear, actionable insights that support business decision-making and strengthen organizational security posture.
 
 ## Featured Projects
 
-- 🔍 Premium House Lights Incident Investigation  
-- 🌐 Wireshark Traffic Analysis  
-- 🛠️ Incident Response Playbook (Cat & Box Scenario)  
-- 📡 Sensor Monitoring & Alert Design  
+- 🔐 Log Monitoring & Threat Detection (SOC Workflow) 
+- 🚨 Data Breach Incident Response Playbook
+- 🕵️ Insider Threat Detection & Response Playbook 
+- 🔍 Risk Monitoring & IoC Detection 
 
 ## Skills
 
@@ -57,6 +57,7 @@ My focus is on translating technical findings into clear, actionable insights th
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
+
 
 <!--
 **herdomain1/herdomain1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
