@@ -27,8 +27,7 @@ My work emphasizes translating technical findings into clear, actionable insight
 | Network Traffic Analysis                    | <a href="https://github.com/Herdomain/network-traffic-analysis">Wireshark & Nmap</a>|
 | Digital Forensics                           | <a href="https://github.com/Herdomain/digital-forensics-szechuan-sauce-investigation">Forensics Investigation</a>|
 | Zero Trust & Security Architecture          | <a href="https://github.com/Herdomain/zero-trust-security-architecture">Zero Trust Security Architecture</a>|
-| Security Communication & Reporting          | <a href="https://github.com/Herdomain/Cat-Box-Playbook">Incident Response Playbook</a>|
-| Incident Response & Escalation              | <a href="https://github.com/Herdomain/data-breach">Incident</a>|
+| Incident Response & Escalation              | <a href="https://github.com/Herdomain/data-breach">Incident Response Playbook</a>|
 
 ## Tools
 
