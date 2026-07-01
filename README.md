@@ -1,4 +1,4 @@
-# 👋🏽 Hi, I'm Asheotsa!
+# 👋🏽 Hi, I'm Theresa!
 
  <a href="https://linkedin.com/in/asheotsa-ata"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  
